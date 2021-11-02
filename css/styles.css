@@ -219,7 +219,7 @@ small, .small {
 
 mark, .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #bba01a;
 }
 
 sub,
@@ -239,7 +239,7 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #ceca07;
   text-decoration: underline;
 }
 a:hover {
@@ -614,6 +614,8 @@ progress {
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
+}li{
+  color:lightgreen;
 }
 
 .figure {
