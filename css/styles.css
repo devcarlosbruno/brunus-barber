@@ -2219,7 +2219,7 @@ progress {
 .form-control[type=file]:not(:disabled):not([readonly]) {
   cursor: pointer;
 }
-.form-control:focus {
+.form-control:focus {li
   color: #212529;
   background-color: #fff;
   border-color: #b2d0ce;
@@ -4802,7 +4802,7 @@ textarea.form-control-lg {
 }
 .accordion-button:not(.collapsed) {
   color: #5a918d;
-  background-color: #f0f6f5;
+  background-color: #774700;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.125);
 }
 .accordion-button:not(.collapsed)::after {
